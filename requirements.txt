@@ -1,0 +1,6 @@
+﻿Pip install cmake
+pip install dlib
+pip install face recognition
+pip install pymysql
+pip install python-opencv
+pip install numpy
